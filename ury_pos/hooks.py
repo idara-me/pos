@@ -200,4 +200,4 @@ app_license = "MIT"
 #	"ury_pos.auth.validate"
 # ]
 
-website_route_rules = [{'from_route': '/urypos/<path:app_path>', 'to_route': 'urypos'},]
+website_route_rules = [{'from_route': '/idarapos/<path:app_path>', 'to_route': 'idarapos'},]
